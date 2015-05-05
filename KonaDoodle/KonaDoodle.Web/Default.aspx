@@ -2,23 +2,12 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <!-- Full Width Image Header -->
-    <header class="header-image">
-        <div class="headline">
-            <div class="container">
-                <h1>Meet Kona</h1>
-                <h2>Lab + Poodle = Crazy Antics</h2>
-            </div>
-        </div>
-    </header>
-
-        <!-- Page Content -->
+    <!-- Page Content -->
     <div class="container">
-
-        <hr class="featurette-divider">
-
         <!-- First Featurette -->
-        <div class="featurette" id="about">
+        <h1 class="text-center">Lab + Poodle = Crazy Antics</h1>
+        <hr class="featurette-divider" />
+        <div class="featurette" id="about" >
             <img class="featurette-image img-circle img-responsive pull-right" src="Images/Kona/Kona_500x580.jpg" />
             <h2 class="featurette-heading">Kona Doodle
                 <span class="text-muted">My coffee colored sweetheart.</span>

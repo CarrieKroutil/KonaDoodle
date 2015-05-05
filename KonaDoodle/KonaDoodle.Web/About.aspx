@@ -39,7 +39,7 @@
                     </div>
                     <div class="panel-body">
                         <h4>Grooming</h4>
-                        <p>Products used and how to accomplish a fashonable cut.</p>
+                        <p>Products used and how to accomplish a fashionable cut.</p>
                         <a href="#" class="btn btn-primary">Read More</a>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                     </div>
                     <div class="panel-body">
                         <h4>Adventure</h4>
-                        <p>Neat places traved with our four legged friend.</p>
+                        <p>Neat places traveled with our four legged friend.</p>
                         <a href="#" class="btn btn-primary">Read More</a>
                     </div>
                 </div>
@@ -84,7 +84,7 @@
                     </div>
                     <div class="panel-body">
                         <h4>Socialize</h4>
-                        <p>Tacktics used to accomplish a well balanced puppy.</p>
+                        <p>Tactics used to accomplish a well-balanced puppy.</p>
                         <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
